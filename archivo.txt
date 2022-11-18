@@ -1,2 +1,5 @@
 Osman Dionicio Luisjuan Mendoza
-InTel CucSur
+c= "InTel CucSur"
+
+print (c)
+
